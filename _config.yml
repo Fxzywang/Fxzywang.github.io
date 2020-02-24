@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: '联系客服', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  欢迎来到分享资源网，本站将以最精品的资源分享给大家！
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
